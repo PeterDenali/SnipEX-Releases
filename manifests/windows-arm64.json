@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.7",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.7/SnipEx-2.2.7-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.7/SnipEx-2.2.7-win-x64-Setup.exe.sha256",
-  "Sha256": "a0d0ddfddddce54ce9e462f77cd981a7d32a798cae86322673baadffc8d9c1e8",
-  "ReleaseNotes": "SnipEX 2.2.7 uses the Windows x64 compatibility package on Windows ARM64 and adds a local privacy-safe Debug menu plus a centered cursor and expansion behavior toolbar icon."
+  "Version": "2.2.8",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.8/SnipEx-2.2.8-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.8/SnipEx-2.2.8-win-x64-Setup.exe.sha256",
+  "Sha256": "6eaf8ee2cdf30f788d8cc608843391ab4962c56254cdc67aaed6d04bc56dac8d",
+  "ReleaseNotes": "SnipEX 2.2.8 uses the Windows x64 compatibility package on Windows ARM64 and adds the same expansion-listener recovery, browser reliability, and standard-user no-elevation protections as Windows x64."
 }

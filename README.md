@@ -4,11 +4,11 @@ This public repository is the official SnipEX binary-distribution, update-feed, 
 
 ## Current stable release
 
-SnipEX Version 2.2.7 Stable is the current Windows employee-testing build. Use `SnipEx-2.2.7-win-x64-Setup.exe` for a normal per-user installation. The `.msi` is provided for managed deployment, and the `.zip` is the portable testing package. Each package has a matching SHA-256 checksum file.
+SnipEX Version 2.2.8 Stable is the current Windows employee-testing build. Use `SnipEx-2.2.8-win-x64-Setup.exe` for a normal per-user installation. The `.msi` is provided for managed deployment, and the `.zip` is the portable testing package. Each package has a matching SHA-256 checksum file.
 
-The macOS 2.2.0 compatibility images are retained inside the current release while a newer Mac build awaits an approved macOS build/signing environment. They are clearly marked as legacy and are not advertised to the automatic updater as version 2.2.7.
+The macOS 2.2.0 compatibility images remain available from the earlier 2.2.7 release while a newer Mac build awaits an approved macOS build/signing environment. They are clearly marked as legacy and are not advertised to the automatic updater as version 2.2.8.
 
-SnipEX 2.2.7 reads the latest public GitHub Release directly. Older installed clients use the small compatibility manifests in this repository. The in-client updater downloads the matching package, verifies its SHA-256 checksum, installs it, and restarts SnipEX without a browser handoff.
+SnipEX 2.2.8 reads the latest public GitHub Release directly. Older installed clients use the small compatibility manifests in this repository. The in-client updater downloads the matching package, verifies its SHA-256 checksum, installs it without elevation, and restarts SnipEX without a browser handoff.
 
 Railway remains responsible only for authorization and synchronized personal/Organization snippet data. It is not the installer host.
 
