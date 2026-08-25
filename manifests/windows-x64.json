@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.10",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.10/SnipEx-2.2.10-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.10/SnipEx-2.2.10-win-x64-Setup.exe.sha256",
-  "Sha256": "9f8329960429021fceb7a35b672ae710a7af9667e23a29ce1a2e1c77643c3010",
-  "ReleaseNotes": "SnipEX 2.2.10 prevents one failed paste or a slow browser accessibility provider from disabling expansion, recovers the keyboard listener after sleep and unlock, and repairs stale modifier state. Personal and shared snippets, preferences, and sign-in state are preserved."
+  "Version": "2.2.11",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.11/SnipEx-2.2.11-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.11/SnipEx-2.2.11-win-x64-Setup.exe.sha256",
+  "Sha256": "7c3879faa530ec65bfffd94ca4293a521e7a396efb8e14c2db3cefa6ef9120d5",
+  "ReleaseNotes": "SnipEX 2.2.11 fixes abbreviations that disappeared or inserted a literal v by dispatching Ctrl+V as reliable ordered stages, allowing slower editors to consume the rendered snippet before clipboard restoration. Existing personal/shared snippets, preferences, and sign-in state are preserved."
 }
