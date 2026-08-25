@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.8",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.8/SnipEx-2.2.8-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.8/SnipEx-2.2.8-win-x64-Setup.exe.sha256",
-  "Sha256": "6eaf8ee2cdf30f788d8cc608843391ab4962c56254cdc67aaed6d04bc56dac8d",
-  "ReleaseNotes": "SnipEX 2.2.8 keeps expansion responsive in HubSpot, Chromium, Sticky Notes, Notepad, Office, and Slack; automatically recovers its keyboard listener after sleep or unlock; preserves expansion after one-app failures; and remains a standard-user per-user installation with no administrator elevation."
+  "Version": "2.2.9",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.9/SnipEx-2.2.9-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.9/SnipEx-2.2.9-win-x64-Setup.exe.sha256",
+  "Sha256": "89378046c25577f44dd100beba21c15630c17ab7ab79d5ee1fbb0ed72762b90f",
+  "ReleaseNotes": "SnipEX 2.2.9 restores the proven 2.2.7 expansion engine and keyboard-listener behavior after a 2.2.8 regression prevented abbreviations from expanding on some systems. Personal and shared snippets, preferences, and sign-in state are preserved."
 }
