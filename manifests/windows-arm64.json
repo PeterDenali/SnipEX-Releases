@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.9",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.9/SnipEx-2.2.9-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.9/SnipEx-2.2.9-win-x64-Setup.exe.sha256",
-  "Sha256": "89378046c25577f44dd100beba21c15630c17ab7ab79d5ee1fbb0ed72762b90f",
-  "ReleaseNotes": "SnipEX 2.2.9 uses the Windows x64 compatibility package on Windows ARM64 and restores the proven 2.2.7 expansion engine after the 2.2.8 expansion regression."
+  "Version": "2.2.10",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.10/SnipEx-2.2.10-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.10/SnipEx-2.2.10-win-x64-Setup.exe.sha256",
+  "Sha256": "9f8329960429021fceb7a35b672ae710a7af9667e23a29ce1a2e1c77643c3010",
+  "ReleaseNotes": "SnipEX 2.2.10 uses the Windows x64 compatibility package on Windows ARM64 and includes the Windows expansion-listener reliability repair."
 }
