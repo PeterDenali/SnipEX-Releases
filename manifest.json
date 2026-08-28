@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.11",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.11/SnipEx-2.2.11-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.11/SnipEx-2.2.11-win-x64-Setup.exe.sha256",
-  "Sha256": "7c3879faa530ec65bfffd94ca4293a521e7a396efb8e14c2db3cefa6ef9120d5",
-  "ReleaseNotes": "SnipEX 2.2.11 fixes abbreviations that disappeared or inserted a literal v by dispatching Ctrl+V as reliable ordered stages, allowing slower editors to consume the rendered snippet before clipboard restoration. Existing personal/shared snippets, preferences, and sign-in state are preserved."
+  "Version": "2.2.12",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.12/SnipEx-2.2.12-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.12/SnipEx-2.2.12-win-x64-Setup.exe.sha256",
+  "Sha256": "99b8eb0df2c0400fffd21be714d410b8fe7ad1579d1b2dec3f7cedd5d753ba32",
+  "ReleaseNotes": "SnipEX 2.2.12 plays expansion audio immediately, fixes snippet rows that could not be selected until folder navigation, and requires explicit approval before any startup update download or installation. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved."
 }
