@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.12",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.12/SnipEx-2.2.12-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.12/SnipEx-2.2.12-win-x64-Setup.exe.sha256",
-  "Sha256": "99b8eb0df2c0400fffd21be714d410b8fe7ad1579d1b2dec3f7cedd5d753ba32",
-  "ReleaseNotes": "SnipEX 2.2.12 plays expansion audio immediately, fixes snippet rows that could not be selected until folder navigation, and requires explicit approval before any startup update download or installation. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved."
+  "Version": "2.2.13",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.13/SnipEx-2.2.13-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.13/SnipEx-2.2.13-win-x64-Setup.exe.sha256",
+  "Sha256": "3180498729227babd1dd17a8d3203bf816639df448d725ce203de4d5ea6478c0",
+  "ReleaseNotes": "SnipEX 2.2.13 improves code organization and Windows update-feed reliability while preserving the existing interface, expansion, snippet editing, synchronization, and sign-in behavior. Retains the expansion, clipboard, and selection fixes from 2.2.12. Startup updates require your approval before downloading or installing. Per-user installation does not require administrator elevation. This employee-testing release remains unsigned."
 }
