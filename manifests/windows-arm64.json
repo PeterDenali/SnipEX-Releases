@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.11",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.11/SnipEx-2.2.11-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.11/SnipEx-2.2.11-win-x64-Setup.exe.sha256",
-  "Sha256": "7c3879faa530ec65bfffd94ca4293a521e7a396efb8e14c2db3cefa6ef9120d5",
-  "ReleaseNotes": "SnipEX 2.2.11 uses the Windows x64 compatibility package on Windows ARM64 and includes the staged Ctrl+V insertion reliability repair."
+  "Version": "2.2.14",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.14/SnipEx-2.2.14-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.14/SnipEx-2.2.14-win-x64-Setup.exe.sha256",
+  "Sha256": "751624167249393490eb43cca4d48786ee50fac1f7dd546381159a12a1aa6074",
+  "ReleaseNotes": "SnipEX 2.2.14 fixes optional-section editing and validates plain and rich templates before saving or expansion. Existing expansion, sign-in, and sync behavior is retained. Startup updates require approval; per-user installation needs no administrator elevation. This employee-testing release remains unsigned. Windows ARM64 uses the x64 compatibility package, not a native ARM64 build."
 }
