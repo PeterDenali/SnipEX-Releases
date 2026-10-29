@@ -1,7 +1,7 @@
-{
-  "Version": "2.2.14",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.14/SnipEx-2.2.14-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.14/SnipEx-2.2.14-win-x64-Setup.exe.sha256",
-  "Sha256": "751624167249393490eb43cca4d48786ee50fac1f7dd546381159a12a1aa6074",
-  "ReleaseNotes": "SnipEX 2.2.14 fixes optional-section editing and validates plain and rich templates before saving or expansion. Existing expansion, sign-in, and sync behavior is retained. Startup updates require approval; per-user installation needs no administrator elevation. This employee-testing release remains unsigned."
+﻿{
+    "Version":  "2.2.15",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.15/SnipEx-2.2.15-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.15/SnipEx-2.2.15-win-x64-Setup.exe.sha256",
+    "Sha256":  "6014012b46634c9fe29bc1adb88a3cf05980fc091458368e81daa731bb8853b2",
+    "ReleaseNotes":  "SnipEX 2.2.15 moves the keyboard listener to its own thread and renews it after idle so abbreviations expand reliably, including after SnipEX sits in the notification area. It also keeps Enable expansion off when you turn it off, gives Quick Insert keyboard focus, restores your clipboard after back-to-back expansions, and fixes several labels. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved. Startup updates require approval; per-user installation needs no administrator elevation. This employee-testing release remains unsigned."
 }
