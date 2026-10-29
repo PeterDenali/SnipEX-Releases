@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "2.2.15",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.15/SnipEx-2.2.15-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.15/SnipEx-2.2.15-win-x64-Setup.exe.sha256",
-    "Sha256":  "6014012b46634c9fe29bc1adb88a3cf05980fc091458368e81daa731bb8853b2",
-    "ReleaseNotes":  "SnipEX 2.2.15 moves the keyboard listener to its own thread and renews it after idle so abbreviations expand reliably, including after SnipEX sits in the notification area. It also keeps Enable expansion off when you turn it off, gives Quick Insert keyboard focus, restores your clipboard after back-to-back expansions, and fixes several labels. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved. Startup updates require approval; per-user installation needs no administrator elevation. This employee-testing release remains unsigned. Windows ARM64 uses the x64 compatibility package, not a native ARM64 build."
+    "Version":  "2.2.16",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.16/SnipEx-2.2.16-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.16/SnipEx-2.2.16-win-x64-Setup.exe.sha256",
+    "Sha256":  "d3c8e8a7dedcb2dcc05b7b72329a421b5736905cedf9e9fd094863634a9fdab5",
+    "ReleaseNotes":  "SnipEX 2.2.16 adds a theme choice in Preferences, including the new Hallow\u0027s Eve theme with pumpkin-orange accents, and fixes several reliability issues: a snippet saved during a private library sync can no longer be reverted, background refreshes no longer overwrite text being typed, unexpected errors no longer close SnipEX, reopening from the taskbar brings the window to the front, and an unreadable settings file no longer resets your preferences. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved. Startup updates require approval; per-user installation needs no administrator elevation. This employee-testing release remains unsigned. Windows ARM64 uses the x64 compatibility package, not a native ARM64 build."
 }
