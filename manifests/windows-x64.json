@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "2.2.18",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.18/SnipEx-2.2.18-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.18/SnipEx-2.2.18-win-x64-Setup.exe.sha256",
-    "Sha256":  "708df03d4a2051398ee6cbad1e91936bf4f2893ce0b236e7183d8a0d41bb8764",
-    "ReleaseNotes":  "SnipEX 2.2.18 keeps itself up to date: when a new version is available at launch it is downloaded, verified, installed, and SnipEX restarts into it automatically (turn this off under Preferences \u003e Update to be asked first). It also adds the Christmas theme with holly-red accents and a snowy backdrop, and gives Hallow\u0027s Eve a pumpkin backdrop behind the editor pane. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved. Per-user installation needs no administrator elevation. This employee-testing release remains unsigned."
+    "Version":  "2.2.19",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.19/SnipEx-2.2.19-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.19/SnipEx-2.2.19-win-x64-Setup.exe.sha256",
+    "Sha256":  "987565c4a9738f5714ce9b1c4c47e6e707b6fe8c5f3ef79714150c0cba8f1ae7",
+    "ReleaseNotes":  "SnipEX 2.2.19 fixes text being cut off at the bottom of the fields in fill-in expansion windows (and other text boxes) since 2.2.16. Nothing else changes; snippets, synchronized libraries, preferences, and sign-in state are preserved. Per-user installation needs no administrator elevation. This employee-testing release remains unsigned."
 }
