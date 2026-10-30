@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "2.2.17",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.17/SnipEx-2.2.17-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.17/SnipEx-2.2.17-win-x64-Setup.exe.sha256",
-    "Sha256":  "ce4a2355e855724063a51cf790df2b0895532e1a025eb5bd6fc7e1877461f0ee",
-    "ReleaseNotes":  "SnipEX 2.2.17 is the Hallow\u0027s Eve edition: SnipEX switches to the Hallow\u0027s Eve theme once on first start after the update (Preferences still offers Light, Dark, and Hallow\u0027s Eve, and a theme you choose afterward stays) and the SnipEX app icon is dressed for the season; the standard icon returns in a later update. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved. Startup updates require approval; per-user installation needs no administrator elevation. This employee-testing release remains unsigned."
+    "Version":  "2.2.18",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.18/SnipEx-2.2.18-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.18/SnipEx-2.2.18-win-x64-Setup.exe.sha256",
+    "Sha256":  "708df03d4a2051398ee6cbad1e91936bf4f2893ce0b236e7183d8a0d41bb8764",
+    "ReleaseNotes":  "SnipEX 2.2.18 keeps itself up to date: when a new version is available at launch it is downloaded, verified, installed, and SnipEX restarts into it automatically (turn this off under Preferences \u003e Update to be asked first). It also adds the Christmas theme with holly-red accents and a snowy backdrop, and gives Hallow\u0027s Eve a pumpkin backdrop behind the editor pane. Existing snippets, synchronized libraries, preferences, and sign-in state are preserved. Per-user installation needs no administrator elevation. This employee-testing release remains unsigned."
 }
